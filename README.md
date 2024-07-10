@@ -1,3 +1,6 @@
+# 215610063-Oktarisa-Vinarsih-Responsi
+
+# Membuat Website Sederhana
 
 ## 1. Persiapan
 
@@ -33,7 +36,7 @@ Pastikan link "profil" mengarah ke /profil
 ```
 lalu masukkan script pada file index.html untuk website-profil
 
-lanjut menguploud foto.jpg
+lanjut mengupload foto.jpg
 
 ```bash
   wget -O ~/website-profil/foto.jpg  "https://drive.google.com/uc?export=download&id=146d3v2nlXNVrV2xj17KTrE4xy7i0eiKx" 

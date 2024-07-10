@@ -20,7 +20,7 @@ Buat file index.html (sesuai deskripsi halaman utama).
 ```bash
   nano index.html
 ```
-lalu masukkan script pada file index.html untuk website-utama
+lalu masukkan script pada file index-utama.html untuk website-utama
 
 Pastikan link "profil" mengarah ke /profil
 
@@ -34,7 +34,7 @@ Pastikan link "profil" mengarah ke /profil
   cd website-profil
   nano index.html
 ```
-lalu masukkan script pada file index.html untuk website-profil
+lalu masukkan script pada file index-profile.html untuk website-profil
 
 lanjut mengupload foto.jpg
 

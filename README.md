@@ -4,7 +4,7 @@
 
 ## 1. Persiapan
 
-### a. Membuat dua direktori: website-utama dan website-profil:
+#### a. Membuat dua direktori: website-utama dan website-profil:
 
 ```bash
 mkdir website-utama
